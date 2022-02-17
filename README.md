@@ -2,4 +2,4 @@
 
 My first Github commit
 
-I love :coffee: :tea: and :music; 
+I love :coffee: :tea: and :music; and :dancing:.
